@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Ramesh Gupta",
+    "rating": 5,
+    "text": "Excellent medical care and very caring staff. Dr. Zeeshan is very experienced and patient with his treatment.",
+    "date": "2 weeks ago",
+    "avatar": "R"
+  },
+  {
+    "id": 2,
+    "name": "Priyanka Singh",
+    "rating": 5,
+    "text": "Dr. Badakhshan provided excellent care during my pregnancy. The staff is very supportive and the facilities are clean.",
+    "date": "1 month ago",
+    "avatar": "P"
+  },
+  {
+    "id": 3,
+    "name": "Anita Sharma",
+    "rating": 4.2,
+    "text": "क्षेत्र के सबसे बेहतरीन बाल रोग विशेषज्ञ। डॉ. ज़ीशान बच्चों के साथ बहुत ही सौम्य व्यवहार करते हैं और बेहतरीन चिकित्सकीय सलाह देते हैं",
+    "date": "3 weeks ago",
+    "avatar": "A"
+  },
+  {
+    "id": 4,
+    "name": "Sunil Kumar",
+    "rating": 4.5,
+    "text": "Quick and efficient service. The hospital is well-maintained and the staff is professional.",
+    "date": "1 week ago",
+    "avatar": "S"
+  },
+  {
+    "id": 5,
+    "name": "Vikas Parjapati",
+    "rating": 5,
+    "text": "Dr. Zeeshan's expertise saved my father's life. Highly recommended hospital.",
+    "date": "2 months ago",
+    "avatar": "V"
+  },
+  {
+    "id": 6,
+    "name": "Maya Devi",
+    "rating": 5,
+    "text": "Affordable healthcare with no compromise on quality. The entire team is dedicated to patient care.",
+    "date": "1 month ago",
+    "avatar": "M"
+  }
+]
